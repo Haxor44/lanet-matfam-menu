@@ -1,0 +1,30 @@
+<svg width="200" height="150" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <g transform="translate(100, 30)">
+    <circle r="12" fill="#F4A460" /> <!-- Sandy Brown / Orange Sun -->
+    <!-- Rays -->
+    <g stroke="#F4A460" stroke-width="2" stroke-linecap="round">
+      <line x1="0" y1="-18" x2="0" y2="-22" />
+      <line x1="0" y1="18" x2="0" y2="22" />
+      <line x1="18" y1="0" x2="22" y2="0" />
+      <line x1="-18" y1="0" x2="-22" y2="0" />
+      <line x1="12.7" y1="-12.7" x2="15.5" y2="-15.5" />
+      <line x1="-12.7" y1="12.7" x2="-15.5" y2="15.5" />
+      <line x1="12.7" y1="12.7" x2="15.5" y2="15.5" />
+      <line x1="-12.7" y1="-12.7" x2="-15.5" y2="-15.5" />
+    </g>
+  </g>
+
+  <!-- Pyramids -->
+  <!-- Left Pyramid -->
+  <path d="M40 100 L70 50 L100 100 Z" fill="#696969" /> <!-- Dim Gray -->
+  
+  <!-- Middle Pyramid (slightly behind/overlapping) -->
+  <path d="M80 100 L110 40 L140 100 Z" fill="#808080" /> <!-- Gray -->
+
+  <!-- Right Pyramid -->
+  <path d="M120 100 L160 30 L200 100 Z" fill="#505050" /> <!-- Dark Gray -->
+  
+  <!-- Text is handled in HTML, but we could add it here if strictly a standalone logo asset. 
+       For this task, I will keep text in HTML for accessibility and styling control. -->
+</svg>
