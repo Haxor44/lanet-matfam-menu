@@ -31,7 +31,7 @@ const menuData = {
         "title": "Signature Platters",
         "items": [
             {
-                "name": "MatFam Churasco Platter (Broiler)",
+                "name": "Matfam Churasco Platter (Broiler)",
                 "price": "4,500.00",
                 "description": [
                     "1kg Mutton Choma (well marinated to taste)",
@@ -42,7 +42,7 @@ const menuData = {
                 ]
             },
             {
-                "name": "MatFam Organic Platter (Kienyeji)",
+                "name": "Matfam Organic Platter (Kienyeji)",
                 "price": "5,000.00",
                 "description": [
                     "Full Kienyeji",
@@ -54,10 +54,10 @@ const menuData = {
                 ]
             },
             {
-                "name": "MatFam ByBoz Burger Platter",
+                "name": "Matfam ByBoz Burger Platter",
                 "price": "4,000.00",
                 "description": [
-                    "3 MatFam B-Boz Burgers",
+                    "3 Matfam B-Boz Burgers",
                     "Mutton Choma 1kg",
                     "4 Sausage Choma",
                     "Potato Wedges",
