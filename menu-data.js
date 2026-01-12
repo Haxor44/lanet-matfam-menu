@@ -3,7 +3,7 @@ const menuData = {
         "title": "Protein",
         "items": [
             { "name": "Kienyeji Chicken", "price": "2,000.00" },
-            { "name": "BBQ Chicken", "price": "2,000.00" },
+            { "name": "BBQ Chicken", "price": "1,500.00" },
             { "name": "Grilled Chicken (1/4)", "price": "500.00" },
             { "name": "Grilled Chicken (1/2)", "price": "900.00" },
             { "name": "Kienyeji Chicken (1/2)", "price": "1,100.00" },
@@ -181,7 +181,7 @@ const menuData = {
             },
             {
                 "name": "White Tea",
-                "price": "150.00"
+                "price": "200.00"
             },
             {
                 "name": "White Chocolate",
